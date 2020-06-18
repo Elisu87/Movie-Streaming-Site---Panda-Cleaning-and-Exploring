@@ -24,13 +24,13 @@ Seaborn
 
 # Visualizations 
 Variable Comparison Chart
-![](Images/VariableComparison.pdf)
+![](Images/VariableComparison.png)
 
 Bar Chart Movie count per Streaming Site
-![](Images/StreamPlatformCount.pdf)
+![](Images/StreamPlatformCount.png)
 
 Line Chart with Movie count per Release Year 
-![](Images/MovieCountReleaseYear.pdf)
+![](Images/MovieCountReleaseYear.png)
 
 Categorical Plot with top 10 countries with the highest movie count 
-![](Images/Top10Countries.pdf)
+![](Images/Top10Countries.png)
