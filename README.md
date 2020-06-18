@@ -18,9 +18,9 @@ Kaggle
 source: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
 
 # Technologies
-Pandas
-Python 
-Seaborn
+- Pandas
+- Python 
+- Seaborn
 
 # Visualizations 
 Variable Comparison Chart
