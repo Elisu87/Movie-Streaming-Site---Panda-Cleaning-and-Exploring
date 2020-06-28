@@ -21,16 +21,25 @@ source: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-d
 - Pandas
 - Python 
 - Seaborn
+- Tableau
 
 # Visualizations 
-Variable Comparison Chart
-![](Images/VariableComparison.png)
 
-Bar Chart Movie count per Streaming Site
-![](Images/StreamPlatformCount.png)
+- Tableau
+  ![](Images/Tableau.png)
 
-Line Chart with Movie count per Release Year 
-![](Images/MovieCountReleaseYear.png)
+  https://public.tableau.com/views/StreamWebsiteComparison/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
-Categorical Plot with top 10 countries with the highest movie count 
-![](Images/Top10Countries.png)
+- Seaborn
+
+  Variable Comparison Chart
+  ![](Images/VariableComparison.png)
+
+  Bar Chart Movie count per Streaming Site
+  ![](Images/StreamPlatformCount.png)
+
+  Line Chart with Movie count per Release Year 
+  ![](Images/MovieCountReleaseYear.png)
+
+  Categorical Plot with top 10 countries with the highest movie count 
+  ![](Images/Top10Countries.png)
